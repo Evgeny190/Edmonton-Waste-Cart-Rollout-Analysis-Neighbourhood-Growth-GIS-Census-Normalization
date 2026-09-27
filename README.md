@@ -28,32 +28,6 @@ The goal is to demonstrate how an analyst can turn an open municipal dataset int
 - **Fast growth explains some extreme ratios, but not all.** High rollout intensity also appears in established neighbourhoods.
 - **Outliers should be investigated, not discarded.** Census timing, rapid development, product mix and data quality can all affect the ratios.
 
-## Portfolio Visuals
-
-### 1. 2021 dominates the observed installation-date distribution
-
-![Active carts by installation year](images/01_installation_year_distribution.png)
-
-The snapshot is strongly concentrated in 2021, which is why the deeper analysis focuses on that year.
-
-### 2. The main 2021 rollout window was January–August
-
-![2021 monthly rollout](images/02_2021_monthly_rollout.png)
-
-Activity is high through August and then drops sharply. November does not appear in the observed installation-date records.
-
-### 3. Dwelling-normalized intensity reveals clear outliers
-
-![Top rollout intensity](images/03_top_rollout_intensity.png)
-
-Most of the upper group is around roughly 1,800–2,400 carts per 1,000 occupied dwellings, while Glenridding Ravine and The Uplands are substantially higher.
-
-### 4. Growth explains only part of the pattern
-
-![Population growth vs rollout intensity](images/04_growth_vs_rollout_selected.png)
-
-This chart shows a **selected set of high-intensity neighbourhoods**, not the full city. Rapidly growing neighbourhoods such as The Uplands and Desrochers Area stand out, but mature areas with near-zero population growth can also have high rollout intensity.
-
 ## Data Sources
 
 ### City of Edmonton — Cart Counts
